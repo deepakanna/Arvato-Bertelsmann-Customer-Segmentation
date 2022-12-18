@@ -14,3 +14,4 @@ The aim of this project is to predict the individuals who are likely to become c
  - The mailout-test data was cleaned and the best model selected in the previous step is used to predict the response in the test data.
  
  
+A detailed analysis of the survey can also be found at the post available [here](https://medium.com/@deepa.kanna2001/capstone-project-arvato-bertelsmann-customer-segmentation-555de5b4fdc5)
