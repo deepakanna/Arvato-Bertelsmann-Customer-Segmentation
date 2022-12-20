@@ -13,5 +13,10 @@ The aim of this project is to predict the individuals who are likely to become c
  - The mailout-train data was cleaned seven classifiers were used and the best model was identified using GridSearch. The best score obtained for 'roc-auc' is recorded. 
  - The mailout-test data was cleaned and the best model selected in the previous step is used to predict the response in the test data.
  
+ ## Libraries used:
+ - pandas
+ - numpy
+ - matplotlib
+ - sklearn
  
 A detailed analysis of the survey can also be found at the post available [here](https://medium.com/@deepa.kanna2001/capstone-project-arvato-bertelsmann-customer-segmentation-555de5b4fdc5)
