@@ -19,4 +19,8 @@ The aim of this project is to predict the individuals who are likely to become c
  - matplotlib
  - sklearn
  
+ ## Files in the repository:
+ - Arvato-Bertelsmann-Customer-Segmentation (2).ipynb : Jupyter notebook containing the implementation of the project
+ - requirements.txt : Text file containing the libraries required for execution
+ 
 A detailed analysis of the survey can also be found at the post available [here](https://medium.com/@deepa.kanna2001/capstone-project-arvato-bertelsmann-customer-segmentation-555de5b4fdc5)
