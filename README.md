@@ -24,3 +24,10 @@ The aim of this project is to predict the individuals who are likely to become c
  - requirements.txt : Text file containing the libraries required for execution
  
 A detailed analysis of the survey can also be found at the post available [here](https://medium.com/@deepa.kanna2001/capstone-project-arvato-bertelsmann-customer-segmentation-555de5b4fdc5)
+
+## License
+Distributed under the MIT license
+
+## Acknowledgements:
+ - I would like to thank Arvato Financial services for allowing me to access their data and my special thanks to my mentors at udacity for their support.
+ 
